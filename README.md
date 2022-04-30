@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagar and am a Graduate Student at UTD seeking Summer 2022 internship positions in the IT field.
 - 👀 I’m interested in Data Science/Analyst roles.
-- 🌱 I'm currently working as a Data Developer at The University of Texas at Dallas.
+- 🌱 I'm currently working as a Student Assitant (Data Analyst) at The University of Texas at Dallas.
 - 💞️ I have 2 years of professional work experience at Oracle as a full-time Staff Consultant.
 
 - Here are some of my Technical Skills:
