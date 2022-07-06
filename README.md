@@ -1,4 +1,4 @@
-- Hi, I’m @sagar and am a Graduate Student at UTD seeking Fall 2022 internship positions in the IT field.
+- Hi, I’m sagar and am a Graduate Student at UTD seeking Fall 2022 internship positions in the IT field.
 - I’m interested in Data Science/Analyst roles.
 - I'm currently working as a Tableau Developer Intern at The Center for Health Information and Analysis.
 - I have 2 years of professional work experience at Oracle as a full-time Staff Consultant.
