@@ -1,22 +1,23 @@
-- Hi, I’m sagar and am a Graduate Student at UTD seeking Fall 2022 internship positions in the IT field.
-- I’m interested in Data Science/Analyst roles.
-- I'm currently working as a Tableau Developer Intern at The Center for Health Information and Analysis.
-- I have 2 years of professional work experience at Oracle as a full-time Staff Consultant.
+• Data Analyst with 3+ years of professional experience in Analytics, Visualization, Reporting, and, Forecasting/Predicting
+• I recently completed my master's degree from The University of Texas at Dallas.
+• I am currently working as a Reporting Analyst at FedPoint.
 
--  Here are some of my Technical Skills:
+Here are some of my Technical Skills:
+Certifications: Python from the Indian Institute of Technology
+Visualization Tools: Tableau, Microsoft Power BI
+Programming: Python, R, SQL, NoSQL, T-SQL
+Software: Microsoft Excel, Jupyter Notebook, MS VISIO, Jira, GIT, SharePoint
+Databases: Oracle SQL Developer, Microsoft SQL Server, PostgreSQL, MS Access
+Cloud Technologies: AWS S3, AWS EC2, Microsoft Azure
 
--  Analytics and Visualization: Tableau, Microsoft Power BI, Advanced Excel(VLOOKUP, Pivot Tables, VBA)
 
--  Databases: Oracle SQL, MySQL, Microsoft SQL Server
+My Profiles:
+GitHub:
+https://github.com/sagarutd
 
--  Libraries: Pandas, NumPy, Matplotlib, Seaborn
+Tableau:
+https://public.tableau.com/app/profile/sagar.gupta1443
 
--  Programming: Python, R, SQL, Java, JavaScript, Servlet/JSP
-
--  Scripting: HTML/CSS, XML, JSON, XSL
-
--  Software: Eclipse, NetBeans, Excel, Jupyter Notebook, WebLogic, Putty
-
--  How to reach me ...
-   Email: sagar.gupta@utdallas.edu | sagargupta398@gmail.com
-   Phone: +1 (972)-904-5870
+Feel free to reach out to me at : 
+Email: sagar.gupta@utdallas.edu | sagargupta398@gmail.com
+Phone: +1 (972)-904-5870
